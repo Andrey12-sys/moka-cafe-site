@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="490" viewBox="0 0 480 490" role="img">
+    <defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e9bf80"/><stop offset="1" stop-color="#efd6a0"/></linearGradient>
+  <filter id="sd" x="-30%" y="-30%" width="170%" height="170%"><feGaussianBlur stdDeviation="11"/></filter>
+</defs>
+<rect width="480" height="490" fill="url(#bg)"/>
+<circle cx="400" cy="67" r="108" fill="#fff5df" opacity=".13"/>
+<circle cx="45" cy="430" r="120" fill="#fff5df" opacity=".13"/>
+<ellipse cx="246" cy="425" rx="161" ry="26" fill="#483126" opacity=".16" filter="url(#sd)"/>
+
+<ellipse cx="236" cy="376" rx="169" ry="47" fill="#f8ecd8" stroke="#fff7e5" stroke-width="6"/>
+<ellipse cx="236" cy="371" rx="136" ry="29" fill="#dbcba6"/>
+<path d="M101 330C67 289 86 241 125 242c-5 45 16 60 58 59Z" fill="#a8572e" stroke="#f1ac53" stroke-width="5"/>
+<path d="M371 327c49-23 48-88 9-91-1 39-22 56-64 65Z" fill="#a7552f" stroke="#e6a656" stroke-width="5"/>
+<path d="M130 317q4-96 104-100 102-2 130 109-114 69-234-9Z" fill="#c87936" stroke="#edb164" stroke-width="9"/>
+<path d="M175 232q-27 49-14 109M233 213q-14 54-8 143M292 231q17 49 12 112" fill="none" stroke="#a95a29" stroke-width="17" opacity=".6"/>
+<path d="M173 231q-18 49-14 94M235 226q-7 45-5 103M292 243q13 36 15 79" fill="none" stroke="#ffcf7c" stroke-width="13" stroke-linecap="round"/>
+<path d="M129 308q91 43 235 5" stroke="#f1ad54" stroke-width="15" fill="none"/>
+<g fill="#fbe3a1" opacity=".8"><ellipse cx="181" cy="281" rx="7" ry="3"/><ellipse cx="269" cy="270" rx="9" ry="3"/><ellipse cx="304" cy="302" rx="8" ry="4"/></g>
+<text x="31" y="456" font-family="Georgia" font-style="italic" font-size="29" fill="#fff7dc" opacity=".8">a little treat.</text>
+
+</svg>

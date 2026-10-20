@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="700" height="760" viewBox="0 0 700 760" role="img">
+    
+<defs>
+  <radialGradient id="back"><stop stop-color="#efceb0"/><stop offset="1" stop-color="#c48b66"/></radialGradient>
+  <radialGradient id="coffee" cx=".42" cy=".32" r=".76"><stop stop-color="#b87a50"/><stop offset=".7" stop-color="#77452e"/><stop offset="1" stop-color="#4b2c21"/></radialGradient>
+  <radialGradient id="foam"><stop stop-color="#fff6d8"/><stop offset=".92" stop-color="#eacb9b"/><stop offset="1" stop-color="#c6976c"/></radialGradient>
+  <filter id="shadow"><feGaussianBlur stdDeviation="14"/></filter>
+  <pattern id="grain" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="6" cy="8" r="1" fill="#fbebd9" opacity=".2"/><circle cx="31" cy="29" r=".7" fill="#683e2f" opacity=".25"/></pattern>
+</defs>
+<rect width="700" height="760" fill="url(#back)"/><rect width="700" height="760" fill="url(#grain)"/>
+<path d="M0 162C200 121 315 220 700 71V0H0Z" fill="#f6dab9" opacity=".26"/>
+<ellipse cx="350" cy="570" rx="258" ry="66" fill="#5e3c2e" opacity=".32" filter="url(#shadow)"/>
+<ellipse cx="364" cy="439" rx="260" ry="253" fill="#dfc6a7"/>
+<ellipse cx="364" cy="429" rx="242" ry="235" fill="#f9e6cc" stroke="#fff4df" stroke-width="10"/>
+<path d="M561 366q134-60 120 58t-124 73" fill="none" stroke="#f6debd" stroke-width="50" stroke-linecap="round"/>
+<path d="M570 375q107-36 95 49t-89 57" fill="none" stroke="#ae8468" stroke-width="16" stroke-linecap="round"/>
+<circle cx="350" cy="409" r="196" fill="#f4dabb"/>
+<circle cx="350" cy="409" r="178" fill="url(#coffee)"/>
+<ellipse cx="350" cy="409" rx="151" ry="145" fill="none" stroke="#d39969" stroke-width="12" opacity=".55"/>
+<path d="M347 519C234 443 231 337 345 335c108-3 111 100 2 184Z" fill="url(#foam)"/>
+<path d="M345 500C263 435 271 378 343 378c76-1 86 60 2 122Z" fill="#dca777"/>
+<path d="M346 485C296 434 298 406 344 406c46 0 50 35 2 79Z" fill="#fff0d2"/>
+<path d="M345 524C342 464 343 395 347 307" fill="none" stroke="#fff7e4" stroke-width="13" stroke-linecap="round"/>
+<path d="M345 476c-50-4-70-27-93-69M349 450c45-2 75-21 106-68M346 416c-40-5-64-23-78-49M348 391c35-4 54-16 74-39" fill="none" stroke="#fff5db" stroke-width="10" stroke-linecap="round"/>
+<g fill="#774a34"><ellipse cx="104" cy="173" rx="17" ry="25" transform="rotate(-37 104 173)"/><ellipse cx="127" cy="206" rx="15" ry="24" transform="rotate(40 127 206)"/><ellipse cx="600" cy="617" rx="17" ry="25" transform="rotate(20 600 617)"/><ellipse cx="570" cy="666" rx="15" ry="24" transform="rotate(-35 570 666)"/></g>
+<g fill="none" stroke="#c99471" stroke-width="3"><path d="M94 150q17 25 22 44M116 187q14 11 22 39M594 591q-2 30 9 48M556 650q20 11 24 39"/></g>
+<g fill="#efd8b9" opacity=".7"><circle cx="112" cy="609" r="3"/><circle cx="145" cy="629" r="2"/><circle cx="154" cy="578" r="5"/><circle cx="615" cy="138" r="6"/><circle cx="569" cy="120" r="3"/><circle cx="632" cy="199" r="3"/></g>
+<text x="62" y="86" fill="#f9e3c9" font-size="15" letter-spacing="7" font-family="Arial,sans-serif">SLOW MORNINGS</text>
+
+</svg>

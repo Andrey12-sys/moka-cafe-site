@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="650" height="700" viewBox="0 0 650 700" role="img">
+    
+<defs>
+<linearGradient id="walls" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f1d1b3"/><stop offset="1" stop-color="#d59e7b"/></linearGradient>
+<linearGradient id="window" x1="0" x2="1" y2="1"><stop stop-color="#b8c7b2"/><stop offset="1" stop-color="#e7dec5"/></linearGradient>
+<linearGradient id="floor" x1="0" x2="1" y2="1"><stop stop-color="#bd795b"/><stop offset="1" stop-color="#8c584b"/></linearGradient>
+<filter id="shadow"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="650" height="700" fill="url(#walls)"/>
+<rect x="0" y="505" width="650" height="195" fill="url(#floor)"/>
+<path d="M68 490V197Q68 52 229 52t160 145v293Z" fill="#fae4c7" stroke="#b77e61" stroke-width="12"/>
+<path d="M97 473V195q0-119 132-119t132 119v278Z" fill="url(#window)"/>
+<path d="M97 320h264M230 78v396" stroke="#f3d8b9" stroke-width="15"/>
+<path d="M112 458q66-85 113-54t125-66v135H112Z" fill="#789678" opacity=".8"/>
+<path d="M114 377q75-57 129-37t109-28v62q-66 61-123 38t-115 40Z" fill="#9ea88a" opacity=".7"/>
+<circle cx="315" cy="158" r="35" fill="#f9edcc" opacity=".75"/>
+<path d="M392 140h170" stroke="#a56c51" stroke-width="13" stroke-linecap="round"/>
+<path d="M423 145l12 52M534 145l-12 52" stroke="#a56c51" stroke-width="8" stroke-linecap="round"/>
+<path d="M433 196q44-14 88 0l-10 22h-69Z" fill="#c78660"/>
+<path d="M420 216q52-21 113 0" stroke="#864e3e" stroke-width="9" fill="none"/>
+<ellipse cx="407" cy="542" rx="170" ry="27" fill="#4f332a" opacity=".2" filter="url(#shadow)"/>
+<path d="M289 492h219l-28 151h-20l-27-137H364l-25 137h-21Z" fill="#794c3d"/>
+<ellipse cx="396" cy="480" rx="130" ry="29" fill="#9b654b"/>
+<ellipse cx="396" cy="473" rx="128" ry="24" fill="#f1c49b"/>
+<ellipse cx="391" cy="435" rx="53" ry="15" fill="#f5e5cb"/>
+<path d="M357 395h69l-9 41q-33 15-53 0Z" fill="#f7e4cf"/>
+<ellipse cx="392" cy="395" rx="35" ry="10" fill="#b77e57"/>
+<path d="M428 402q38-5 25 23t-29 7" fill="none" stroke="#f5e5c9" stroke-width="11"/>
+<g fill="none" stroke="#f1e8d8" stroke-width="5" opacity=".75"><path d="M380 375q-18-18-3-35"/><path d="M404 374q17-20 0-38"/></g>
+<path d="M505 501h78l-14-112h-50Z" fill="#c98765"/>
+<path d="M542 397q-68-89-36-159M540 399q15-110 57-163M545 402q-1-100 3-158M535 392q-78-41-76-109" stroke="#536e50" stroke-width="8" fill="none" stroke-linecap="round"/>
+<g fill="#607d58"><ellipse cx="507" cy="282" rx="18" ry="45" transform="rotate(-28 507 282)"/><ellipse cx="467" cy="306" rx="17" ry="37" transform="rotate(-56 467 306)"/><ellipse cx="564" cy="280" rx="19" ry="48" transform="rotate(34 564 280)"/><ellipse cx="601" cy="250" rx="19" ry="41" transform="rotate(32 601 250)"/><ellipse cx="553" cy="334" rx="18" ry="43" transform="rotate(22 553 334)"/><ellipse cx="528" cy="245" rx="16" ry="44" transform="rotate(-15 528 245)"/></g>
+<path d="M0 507h650" stroke="#985947" stroke-width="10"/>
+<text x="29" y="646" fill="#efc4a8" font-family="Georgia" font-style="italic" font-size="30" opacity=".9">your happy place.</text>
+
+</svg>
